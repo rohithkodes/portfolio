@@ -1,5 +1,5 @@
 {
     "headline": "Hello, I'm Rohith K Kannan.",
-    "picture": "/assets/landing/face.webp",
-    "jpg": "/assets/landing/face.jpeg"
+    "picture": "assets/landing/face.webp",
+    "jpg": "assets/landing/face.jpeg"
 }

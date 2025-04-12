@@ -6,8 +6,8 @@
         "tags": ["C++", "Console-Game", "Command Pattern"],
         "description": "A simple command-line chess game built in C++.",
         "readMore": "https://www.linkedin.com/posts/rohithkannan_programming-gamedev-buildinpublic-activity-7315572922008383488-MHz0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
-        "image": "/assets/other-projects/chessGame.webp",
-        "jpg": "/assets/other-projects/chessGame.jpg"
+        "image": "assets/other-projects/chessGame.webp",
+        "jpg": "assets/other-projects/chessGame.jpg"
 
     },
     {
@@ -19,8 +19,8 @@
         "tags": ["Unity", "2D Platformer", "Player Switching", "Singleton"],
         "description": "A 2D platformer game with puzzle elements.",
         "readMore": "https://www.linkedin.com/posts/rohithkannan_unity2d-gamedev-gamedevelopment-activity-7041005817784926208-1vcs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
-        "image": "/assets/other-projects/ballin.webp",
-        "jpg": "/assets/other-projects/ballin.jpg"
+        "image": "assets/other-projects/ballin.webp",
+        "jpg": "assets/other-projects/ballin.jpg"
     },
     {
         "id": "other-project-aws-unity",
@@ -30,8 +30,8 @@
         "tags": ["Unity", "AWS", "NodeJS", "Lambda"],
         "description": "AWS DynamoDB with Serverless backend integration in Unity.",
         "readMore": "https://www.linkedin.com/posts/rohithkannan_aws-unity-database-activity-7023567406572716032-CGFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
-        "image": "/assets/other-projects/awsUnity.webp",
-        "jpg": "/assets/other-projects/awsUnity.jpg"
+        "image": "assets/other-projects/awsUnity.webp",
+        "jpg": "assets/other-projects/awsUnity.jpg"
     },
     {
         "id": "other-project-traffic",
@@ -42,8 +42,8 @@
         "tags": ["Unity", "Graph", "Traffic Sim", "Pathfinding"],
         "description": "A Unity-based traffic simulation inspired by Cities: Skylines, utilizing graph-based pathfinding to simulate vehicle movement and road networks.",
         "readMore": "https://www.linkedin.com/posts/rohithkannan_buildinpublic-gamedev-trafficsimulation-activity-7182384244999028736-XwFD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
-        "image": "/assets/other-projects/trafficSim.webp",
-        "jpg": "/assets/other-projects/trafficSim.jpg"
+        "image": "assets/other-projects/trafficSim.webp",
+        "jpg": "assets/other-projects/trafficSim.jpg"
     },
     {
         "id": "other-project-minesweeper",
@@ -53,7 +53,7 @@
         "tags": ["C++", "Console-Game"],
         "description": "A console version of the Minesweeper game made with C++.",
         "readMore": "https://www.linkedin.com/posts/rohithkannan_devlog-ds-fundamentals-ii-mat-activity-7066726295656673280-2-ju?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
-        "image": "/assets/other-projects/chessGame.webp",
-        "jpg": "/assets/other-projects/chessGame.jpg"
+        "image": "assets/other-projects/chessGame.webp",
+        "jpg": "assets/other-projects/chessGame.jpg"
     }
 ]

@@ -4,8 +4,8 @@
         "mobile": "RKK",
         "desktop": "RKK"
     },
-    "mainPicture": "/assets/rohith_profile.jpg",
-    "mainPictureJPG": "/assets/rohith_profile.jpg",
+    "mainPicture": "assets/rohith_profile.jpg",
+    "mainPictureJPG": "assets/rohith_profile.jpg",
     "pronunciation": "/ri-shi-kaysh/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
