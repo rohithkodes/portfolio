@@ -23,21 +23,10 @@ export const Navbar: FC = () => {
         <Box bg={bg} position="fixed" top="0" w="100%" left="50%" transform="translate(-50%)" zIndex="10">
             <Container py="4" px="4" data-aos="fade-down" data-aos-duration="500" data-aos-delay="100">
                 <Flex justifyContent="space-between" alignItems="center">
-                    <LogoType text={configs.common.logoType} />
+                    {/* <LogoType text={configs.common.logoType} /> */}
+                    <Box /> {/* Acts as spacer in place of LogoType */}
                     <Flex alignItems="center" display={{ base: "none", md: "flex" }}>
                         <HStack spacing="8" mr="6">
-                            <Button
-                                variant="link"
-                                color={navItemColor}
-                                textDecoration="underline"
-                                textDecorationThickness="2px"
-                                textDecorationColor={currentPage === WorkPageId ? "primary.500" : "transparent"}
-                                onClick={() => toSection(WorkPageId)}
-                                data-aos="fade"
-                                data-aos-delay="200"
-                            >
-                                Work
-                            </Button>
                             <Button
                                 variant="link"
                                 color={navItemColor}
@@ -49,6 +38,18 @@ export const Navbar: FC = () => {
                                 data-aos-delay="300"
                             >
                                 About
+                            </Button>
+                            <Button
+                                variant="link"
+                                color={navItemColor}
+                                textDecoration="underline"
+                                textDecorationThickness="2px"
+                                textDecorationColor={currentPage === WorkPageId ? "primary.500" : "transparent"}
+                                onClick={() => toSection(WorkPageId)}
+                                data-aos="fade"
+                                data-aos-delay="200"
+                            >
+                                Projects
                             </Button>
                             <Button variant="link" onClick={onResumeOpen} data-aos="fade" data-aos-delay="400">
                                 Resume

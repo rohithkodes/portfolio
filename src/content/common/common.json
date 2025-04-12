@@ -1,30 +1,34 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Rohith K Kannan",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "RKK",
+        "desktop": "RKK"
     },
-    "mainPicture": "/assets/HP.webp",
-    "mainPictureJPG": "/assets/HP.jpeg",
+    "mainPicture": "/assets/rohith_profile.jpg",
+    "mainPictureJPG": "/assets/rohith_profile.jpg",
     "pronunciation": "/ri-shi-kaysh/",
     "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "email": "rohithkkannan@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/rohithkannan/",
+    "github": "https://github.com/RohithKKannan",
+    "resume": "https://drive.google.com/file/d/1VVrinRcEPocwmKGz3G5WpGWKr9bnmdJv/view?usp=sharing",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/rohithkannan/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/RohithKKannan"
+        },
+        {
+            "type": "youtube",
+            "link": "https://www.youtube.com/@rkkmakesgames"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:rohithkkannan@outlook.com"
         }
     ]
 }

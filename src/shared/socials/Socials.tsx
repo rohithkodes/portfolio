@@ -21,7 +21,7 @@ interface Props {
     delay?: number;
 }
 
-export const Socials: FC<Props> = ({ resume = true, exclude, delay = 800 }) => {
+export const Socials: FC<Props> = ({ resume = true, exclude, delay = 10 }) => {
     return (
         <HStack spacing="5">
             {resume && (

@@ -8,6 +8,7 @@ import { Education } from "pages/about/education/Education";
 import { Experience } from "pages/about/experience/Experience";
 import { Skills } from "pages/about/skills/Skills";
 import { VolumeIcon } from "utils/Icons";
+import { Socials } from "shared/socials/Socials";
 
 export const About: FC = () => {
     const content = useContent(MarkdownFile.About);
@@ -29,7 +30,7 @@ export const About: FC = () => {
                 </Box>
                 <Box flex="0.85">
                     <Heading data-aos="fade-down">{configs.common.name}</Heading>
-                    <Flex alignItems="center">
+                    {/* <Flex alignItems="center">
                         <Text fontWeight="bold" opacity="0.5" data-aos="fade" data-aos-delay="200">
                             {configs.common.pronunciation}
                         </Text>
@@ -45,10 +46,16 @@ export const About: FC = () => {
                             data-aos="fade"
                             data-aos-delay="400"
                         />
-                    </Flex>
+                    </Flex> */}
+
                     <Box pt="4" data-aos="fade-up" data-aos-delay="400">
                         <Content fontSize="lg">{content.about}</Content>
                     </Box>
+
+                    <Box mt="6">
+                        <Socials delay={1000} />
+                    </Box>
+
                 </Box>
             </Flex>
             <Flex
@@ -64,9 +71,9 @@ export const About: FC = () => {
                     <Experience />
                 </Box>
             </Flex>
-            <Box pt="16">
+            {/* <Box pt="16">
                 <Skills />
-            </Box>
+            </Box> */}
             <Box pt="16">
                 <Blog />
             </Box>

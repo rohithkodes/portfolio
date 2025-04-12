@@ -1,5 +1,3 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
+Hey! I'm a Game Developer with experience building interactive applications and multiplayer games using **Unity**. I work primarily with **C#** and **C++**, and I’ve been involved in designing both gameplay systems and the architecture that supports them.
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
-
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+My experience includes developing *multiplayer educational games* from the ground up, creating internal tools to support game integration, and working closely with teams to solve implementation issues. I’m especially interested in systems design and making development more efficient through thoughtful architecture.

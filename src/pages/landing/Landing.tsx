@@ -37,7 +37,7 @@ export const Landing: FC = () => {
                             </Content>
                         </Stack>
 
-                        <Socials delay={1000} />
+                        {/* <Socials delay={1000} /> */}
                     </Stack>
                     <Container
                         alignItems="center"
@@ -54,7 +54,7 @@ export const Landing: FC = () => {
                     </Container>
                 </HStack>
             </Center>
-            <Flex justifyContent="center" data-aos="fade" data-aos-delay="1400">
+            {/* <Flex justifyContent="center" data-aos="fade" data-aos-delay="1400">
                 <Button
                     as={IconButton}
                     fontSize="3xl"
@@ -63,7 +63,7 @@ export const Landing: FC = () => {
                     icon={<ChevronDownIcon />}
                     onClick={scrollIntoView}
                 ></Button>
-            </Flex>
+            </Flex> */}
         </Box>
     );
 };

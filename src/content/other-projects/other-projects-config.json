@@ -1,64 +1,59 @@
 [
     {
-        "id": "other-project-post",
-        "title": "Part of Speech Tagger",
-        "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/post",
-        "demo": "https://hrishikeshpaul.github.io/post/",
-        "tags": ["Python", "Vue", "Flask", "Artificial Intelligence", "Language Processing"],
-        "description": "Post is a simple algorithm that was developed to tag a word in a sentence corresponding to its part of speech. The algorithm makes of a probabilistic approach along with some randomness, together which forms the basis of an algorithm called Gibbs Sampling.",
-        "image": "/assets/other-projects/post.webp",
-        "jpg": "/assets/other-projects/post.jpeg"
+        "id": "other-project-chess",
+        "title": "Chess Game",
+        "github": "https://github.com/RohithKKannan/Chess-Game",
+        "tags": ["C++", "Console-Game", "Command Pattern"],
+        "description": "A simple command-line chess game built in C++.",
+        "readMore": "https://www.linkedin.com/posts/rohithkannan_programming-gamedev-buildinpublic-activity-7315572922008383488-MHz0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
+        "image": "/assets/other-projects/chessGame.webp",
+        "jpg": "/assets/other-projects/chessGame.jpg"
 
     },
     {
-        "id": "other-project-noq",
-        "title": "NoQ Job Portal",
+        "id": "other-project-ballin",
+        "title": "Ballin'",
         "year": "Aug 2019 - Dec 2019",
-        "github": "https://github.com/hrishikeshpaul/noq",
-        "demo": "http://noq-client.herokuapp.com/login",
-        "tags": ["Vue", "NodeJS", "JavaScript", "MongoDB", "Heroku", "Agile", "Sockets", "JIRA"],
-        "description": "NoQ is a tool which allows for both employers and students to skip the hassle seen in modern day career fairs, while effectively pairing up students with employees based on various factors.",
-        "readMore": "https://hrishikeshpaul.medium.com/noq-a-job-portal-for-college-career-fairs-9996bbb37a1c",
-        "image": "/assets/other-projects/noq.webp",
-        "jpg": "/assets/other-projects/noq.jpeg"
+        "github": "https://github.com/RohithKKannan/2D-Ball-Game",
+        "demo": "https://rohithkannan.itch.io/ballin",
+        "tags": ["Unity", "2D Platformer", "Player Switching", "Singleton"],
+        "description": "A 2D platformer game with puzzle elements.",
+        "readMore": "https://www.linkedin.com/posts/rohithkannan_unity2d-gamedev-gamedevelopment-activity-7041005817784926208-1vcs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
+        "image": "/assets/other-projects/ballin.webp",
+        "jpg": "/assets/other-projects/ballin.jpg"
     },
     {
-        "id": "other-project-bank-compare",
-        "title": "Experience Design Anaysis",
+        "id": "other-project-aws-unity",
+        "title": "AWS Unity",
         "year": "Aug 2019 - Dec 2019",
-        "tags": ["UX Design", "Analysis", "Adobe XD", "Mockups"],
-        "description": "This project demonstrates how the selection of colors, fonts, shapes, languages, layout and other styles can lead to drastically different user experiences, by comparing landing pages of 3 bank websites built from scratch.",
-        "readMore": "https://drive.google.com/file/d/1GY2WmRZgvBgFx6OlAMcAj8_DQVmS5VBw/view",
-        "image": "/assets/other-projects/bank.webp",
-        "jpg": "/assets/other-projects/bank.jpeg"
+        "github": "https://github.com/RohithKKannan/AWSUnity",
+        "tags": ["Unity", "AWS", "NodeJS", "Lambda"],
+        "description": "AWS DynamoDB with Serverless backend integration in Unity.",
+        "readMore": "https://www.linkedin.com/posts/rohithkannan_aws-unity-database-activity-7023567406572716032-CGFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
+        "image": "/assets/other-projects/awsUnity.webp",
+        "jpg": "/assets/other-projects/awsUnity.jpg"
     },
     {
-        "id": "other-project-bunder",
-        "title": "Bunder",
-        "year": "Jan 2020 - Apr 2020",
-        "tags": ["Surveying", "User Interviews", "Ideation", "Analysis", "Product Planning"],
-        "description": "An MVP Proposal - Bunder is an intuitive web platform for micro-communities to share sensitive data with privacy within the community and allow engagement amongst them.",
-        "readMore": "https://drive.google.com/file/d/1sj9wL7uEokNpk6VUu3nsiPHf3TZeu4lT/view?usp=sharing",
-        "image": "/assets/other-projects/bunder.webp",
-        "jpg": "/assets/other-projects/bunder.jpeg"
+        "id": "other-project-traffic",
+        "title": "Traffic Sim",
+        "year": "Aug 2019 - Dec 2019",
+        "github": "https://github.com/RohithKKannan/2D-Traffic-System",
+        "demo": "https://rohithkannan.itch.io/traffic-system",
+        "tags": ["Unity", "Graph", "Traffic Sim", "Pathfinding"],
+        "description": "A Unity-based traffic simulation inspired by Cities: Skylines, utilizing graph-based pathfinding to simulate vehicle movement and road networks.",
+        "readMore": "https://www.linkedin.com/posts/rohithkannan_buildinpublic-gamedev-trafficsimulation-activity-7182384244999028736-XwFD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
+        "image": "/assets/other-projects/trafficSim.webp",
+        "jpg": "/assets/other-projects/trafficSim.jpg"
     },
     {
-        "id": "other-project-suicide-analyzer",
-        "title": "Suicide Analyzer",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "This is a web application, uses a map to demonstrate the number suicides committed around the globe, according to a dataset provided by the WHO.",
-        "github": "https://github.com/hrishikeshpaul/whodata",
-        "image": "/assets/other-projects/suicide-analyzer.webp",
-        "jpg": "/assets/other-projects/suicide-analyzer.jpeg"
-    },
-    {
-        "id": "other-project-nutricare",
-        "title": "Nutricare",
-        "tags": ["AngularJS", "JavaScript", "Express", "NodeJS", "Leaflet", "Heroku", "Python", "Pandas"],
-        "description": "A web app for patients to input nutrient intake data and researchers to analyse the data with the help of graphs and tables. A researcher can conduct studies on N different subjects for a particular problem statement.",
-        "readMore": "https://angel.co/projects/576300-nutricare",
-        "image": "/assets/other-projects/nutricare.webp",
-        "jpg": "/assets/other-projects/nutricare.jpeg"
+        "id": "other-project-minesweeper",
+        "title": "Minesweeper",
+        "year": "Aug 2019 - Dec 2019",
+        "github": "https://github.com/RohithKKannan/Minesweeper-Game",
+        "tags": ["C++", "Console-Game"],
+        "description": "A console version of the Minesweeper game made with C++.",
+        "readMore": "https://www.linkedin.com/posts/rohithkannan_devlog-ds-fundamentals-ii-mat-activity-7066726295656673280-2-ju?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
+        "image": "/assets/other-projects/chessGame.webp",
+        "jpg": "/assets/other-projects/chessGame.jpg"
     }
 ]

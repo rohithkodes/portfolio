@@ -8,7 +8,7 @@ import { onMailTo } from "utils/Functions";
 import { Socials } from "shared/socials/Socials";
 
 const headerStyles = {
-    cursor: "pointer",
+    // cursor: "pointer",
     transition: "color 0.2s ease-in-out",
     isTruncated: true,
     fontSize: { base: "2xl", md: "3xl" },
@@ -19,27 +19,27 @@ const headerStyles = {
 export const Footer: FC = () => {
     return (
         <>
-            <PageHeader label="SAY HI" />
+            {/* <PageHeader label="SAY HI" /> */}
             <Flex pb="2" gap="3" overflow="hidden" alignItems="center">
-                <Heading {...headerStyles} onClick={onMailTo} fontSize="2xl">
+                <Heading {...headerStyles} fontSize="2xl">
                     {configs.common.email}
                 </Heading>
             </Flex>
             <Text>
-                If you want to know more about my experiences and journey, or just talk in general, get in touch! ✌️
+                Just in case the button’s feeling lazy—here’s the email.
             </Text>
             <Box pt="16">
-                <Socials delay={100} exclude={["mail"]} />
+                <Socials />
             </Box>
             <Flex
-                pt="4"
-                pb="2"
-                fontSize="sm"
-                color="gray.500"
-                justifyContent={{ base: "center", md: "space-between" }}
-                direction={{ base: "column", md: "row" }}
+            pt="4"
+            pb="2"
+            fontSize="sm"
+            color="gray.500"
+            justifyContent="center"
+            alignItems="center"
             >
-                <Text>This site is hand-crafted, with care by me.</Text>
+                {/* <Text>This site is hand-crafted, with care by me.</Text> */}
                 <Text>&copy; {new Date().getFullYear()} All rights reserved.</Text>
             </Flex>
         </>

@@ -5,6 +5,7 @@ import { components } from "theme/component-styles/ComponentStyles";
 
 const config: ThemeConfig = {
     cssVarPrefix: "hp",
+    initialColorMode: "dark",
 };
 
 const fonts = {
@@ -23,7 +24,7 @@ const colors = {
 
 export const bgLight = "white";
 export const bgDark = "gray.800";
-export const NavbarHeight = "144px";
+export const NavbarHeight = "50px";
 
 export const theme = extendTheme(
     {
