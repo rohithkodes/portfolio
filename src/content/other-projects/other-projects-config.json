@@ -3,12 +3,56 @@
         "id": "other-project-chess",
         "title": "Chess Game",
         "github": "https://github.com/RohithKKannan/Chess-Game",
-        "tags": ["C++", "Console-Game", "Command Pattern"],
-        "description": "A simple command-line chess game built in C++.",
-        "readMore": "https://www.linkedin.com/posts/rohithkannan_programming-gamedev-buildinpublic-activity-7315572922008383488-MHz0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
-        "image": "assets/other-projects/chessGame.webp",
-        "jpg": "assets/other-projects/chessGame.jpg"
-
+        "demo": "https://plainstunneler.itch.io/2d-chess-game",
+        "tags": [
+            "C++",
+            "Command Pattern"
+        ],
+        "description": "A two-player chess game built in C++, featuring a GUI powered by the SDL-based Spinach framework",
+        "readMore": "https://www.linkedin.com/posts/rohithkannan_gamedev-chess-buildinpublic-activity-7318818143689158656-Qg2z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC24_ksBN9hTG9JjIlZgZZPESwSe8iKLVsE",
+        "image": "assets/other-projects/chess_game.webp",
+        "jpg": "assets/other-projects/chess_game.jpg"
+    },
+    {
+        "id": "other-project-shattered-realms",
+        "title": "Shattered Realms",
+        "github": "https://github.com/RohithKKannan/shattered-realms",
+        "demo": "https://plainstunneler.itch.io/shattered-realms",
+        "tags": [
+            "Platformer",
+            "World Switching",
+            "Game Jam"
+        ],
+        "description": "A world-switching platformer made in 3 hours for a game jam",
+        "image": "assets/other-projects/SR_Logo.webp",
+        "jpg": "assets/other-projects/SR_Logo.jpg"
+    },
+    {
+        "id": "other-project-bottleneck-rescue",
+        "title": "Bottleneck Rescue",
+        "github": "https://github.com/RohithKKannan/bottleneck-rescue",
+        "demo": "https://plainstunneler.itch.io/bottleneck-rescue",
+        "tags": [
+            "Godot",
+            "Survival"
+        ],
+        "description": "A 2D game built in Godot about crafting and sending messages from a stranded island",
+        "image": "assets/other-projects/bottleneck_logo.webp",
+        "jpg": "assets/other-projects/bottleneck_logo.jpg"
+    },
+    {
+        "id": "other-project-spelling-spell",
+        "title": "Spelling Spell",
+        "github": "https://github.com/RohithKKannan/spelling-spell",
+        "demo": "https://plainstunneler.itch.io/spelling-spell",
+        "tags": [
+            "Typing",
+            "Survival",
+            "Game Jam"
+        ],
+        "description": "A fast-paced typing survival game made in a day for a Halloween game jam",
+        "image": "assets/other-projects/spelling_spell_logo.webp",
+        "jpg": "assets/other-projects/spelling_spell_logo.jpg"
     },
     {
         "id": "other-project-ballin",
